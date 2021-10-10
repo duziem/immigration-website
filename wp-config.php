@@ -34,13 +34,13 @@ if(strstr($_SERVER['SERVER_NAME'], "localhost")){
 	
 }else{
 	/** The name of the database for WordPress */
-	define( 'DB_NAME', 'id16626647_sampleimmigrationdb' );
+	define( 'DB_NAME', 'id16626647_immigrationdb' );
 	
 	/** MySQL database username */
 	define( 'DB_USER', 'id16626647_codified' );
 	
 	/** MySQL database password */
-	define( 'DB_PASSWORD', 'Duz!@EM@8051#' );
+	define( 'DB_PASSWORD', 'Duz!@EM@82825#' );
 	
 	/** MySQL hostname */
 	define( 'DB_HOST', 'localhost' );
